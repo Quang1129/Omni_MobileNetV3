@@ -1,0 +1,15 @@
+# Ignore data files
+cifar/data/
+cifat/__pycache__/
+tiny_imagenet/images/
+tiny_imagenet/__pycache__/
+tiny_imagenet/setup_data/__pycache__/
+tiny_imagenet/tiny-imagenet-200
+Bayesian_Optimization/data/
+Bayesian_Optimization/images/
+Bayesian_Optimization/setup_data/__pycache__/
+Bayesian_Optimization/tiny-imagenet-200
+Bayesian_Optimization/chest_xrays/
+# Ignore additional files
+.git/
+.ipynb_checkpoints/
